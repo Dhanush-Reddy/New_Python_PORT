@@ -9,7 +9,7 @@ export const personalInfo = {
   about: "I am a passionate Python Backend Engineer with over 3.7 years of experience in building scalable APIs and healthcare platforms. I care deeply about clean code, performance, and developer experience.",
   socials: [
     { name: "GitHub", icon: Github, url: "https://github.com/Dhanush-Reddy" },
-    { name: "LinkedIn", icon: Linkedin, url: "https://www.linkedin.com/in/k-dhanush-82459121a/" },
+    { name: "LinkedIn", icon: Linkedin, url: "https://www.linkedin.com/in/k-dhanush-053a4638b/" },
     { name: "Email", icon: Mail, url: "mailto:kottedhanush06@gmail.com" },
     { name: "Resume", icon: FileText, url: "/assets/resume.pdf" }
   ]
