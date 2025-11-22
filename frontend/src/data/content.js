@@ -11,7 +11,7 @@ export const personalInfo = {
     { name: "GitHub", icon: Github, url: "https://github.com/Dhanush-Reddy" },
     { name: "LinkedIn", icon: Linkedin, url: "https://www.linkedin.com/in/k-dhanush-053a4638b/" },
     { name: "Email", icon: Mail, url: "mailto:kottedhanush06@gmail.com" },
-    { name: "Resume", icon: FileText, url: "/assets/resume.pdf" }
+    { name: "Resume", icon: FileText, url: "/assets/Dhanush_Resume.pdf" }
   ]
 };
 
