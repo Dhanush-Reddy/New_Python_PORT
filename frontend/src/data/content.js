@@ -8,10 +8,10 @@ export const personalInfo = {
   bio: "I’m K Dhanush, a developer who builds backend systems using Python, Django, Flask & FastAPI.",
   about: "I am a passionate Python Backend Engineer with over 3.7 years of experience in building scalable APIs and healthcare platforms. I care deeply about clean code, performance, and developer experience.",
   socials: [
-    { name: "GitHub", icon: Github, url: "https://github.com/" },
-    { name: "LinkedIn", icon: Linkedin, url: "https://linkedin.com/" },
-    { name: "Email", icon: Mail, url: "mailto:dhanush@example.com" },
-    { name: "Resume", icon: FileText, url: "/resume.pdf" }
+    { name: "GitHub", icon: Github, url: "https://github.com/Dhanush-Reddy" },
+    { name: "LinkedIn", icon: Linkedin, url: "https://www.linkedin.com/in/k-dhanush-82459121a/" },
+    { name: "Email", icon: Mail, url: "mailto:kottedhanush06@gmail.com" },
+    { name: "Resume", icon: FileText, url: "/assets/resume.pdf" }
   ]
 };
 
