@@ -6,13 +6,11 @@ import { Button, Logo } from './ui';
 
 export const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
-  const [isDark, setIsDark] = useState(false);
+  const [isDark, setIsDark] = useState(true);
 
   useEffect(() => {
-    if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
-      setIsDark(true);
-      document.documentElement.classList.add('dark');
-    }
+    // Set dark mode by default on initial load
+    document.documentElement.classList.add('dark');
   }, []);
 
   const toggleTheme = () => {
